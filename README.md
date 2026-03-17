@@ -60,6 +60,12 @@ The dashboard displays:
 
 This visualization helps teachers quickly understand student performance and make data-driven decisions.
 
+## Power BI Dashboard
+
+Below is the Power BI dashboard used to visualize student performance insights.
+
+![Power BI Dashboard](dashboard.png)
+
 ---
 
 ## Project Files
