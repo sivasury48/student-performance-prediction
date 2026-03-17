@@ -1,0 +1,101 @@
+Student_ID,Attendance,Internal_Marks,Study_Consistency,Assignment_Completion,Previous_Result,Class_Participation,Final_Result,Predicted_Result,Probability_of_Pass,Predicted_Label,Risk_Level,Decision_Support
+S001,88,75,5,98,1,4,1,1,1,Pass,Low Risk,Maintain excellent academic discipline and aim for higher achievement.
+S002,86,90,4,97,1,5,1,1,1,Pass,Low Risk,Maintain excellent academic discipline and aim for higher achievement.
+S003,86,71,5,96,0,4,1,1,1,Pass,Low Risk,Maintain excellent academic discipline and aim for higher achievement.
+S004,95,80,5,96,1,5,1,1,1,Pass,Low Risk,Maintain excellent academic discipline and aim for higher achievement.
+S005,94,84,5,98,0,4,1,1,1,Pass,Low Risk,Maintain excellent academic discipline and aim for higher achievement.
+S006,98,71,4,98,0,4,1,1,1,Pass,Low Risk,Maintain excellent academic discipline and aim for higher achievement.
+S007,95,96,4,92,1,4,1,1,1,Pass,Low Risk,Maintain excellent academic discipline and aim for higher achievement.
+S008,89,70,5,97,1,5,1,1,1,Pass,Low Risk,Maintain excellent academic discipline and aim for higher achievement.
+S009,88,93,5,100,1,4,1,1,1,Pass,Low Risk,Maintain excellent academic discipline and aim for higher achievement.
+S010,98,86,4,86,0,4,1,1,1,Pass,Low Risk,Maintain excellent academic discipline and aim for higher achievement.
+S011,99,95,5,95,0,5,1,1,1,Pass,Low Risk,Maintain excellent academic discipline and aim for higher achievement.
+S012,98,97,5,93,0,5,1,1,1,Pass,Low Risk,Maintain excellent academic discipline and aim for higher achievement.
+S013,91,99,4,99,0,5,1,1,1,Pass,Low Risk,Maintain excellent academic discipline and aim for higher achievement.
+S014,98,80,5,95,1,5,1,1,1,Pass,Low Risk,Maintain excellent academic discipline and aim for higher achievement.
+S015,100,87,4,100,1,4,1,1,1,Pass,Low Risk,Maintain excellent academic discipline and aim for higher achievement.
+S016,87,82,4,85,1,5,1,1,1,Pass,Low Risk,Maintain excellent academic discipline and aim for higher achievement.
+S017,88,73,4,93,0,5,1,1,1,Pass,Low Risk,Maintain excellent academic discipline and aim for higher achievement.
+S018,87,75,4,92,1,4,1,1,1,Pass,Low Risk,Maintain excellent academic discipline and aim for higher achievement.
+S019,91,89,5,89,1,4,1,1,1,Pass,Low Risk,Maintain excellent academic discipline and aim for higher achievement.
+S020,94,75,4,89,0,5,1,1,1,Pass,Low Risk,Maintain excellent academic discipline and aim for higher achievement.
+S021,89,76,5,89,1,5,1,1,1,Pass,Low Risk,Maintain excellent academic discipline and aim for higher achievement.
+S022,86,95,5,92,0,4,1,1,1,Pass,Low Risk,Maintain excellent academic discipline and aim for higher achievement.
+S023,88,98,5,98,0,4,1,1,1,Pass,Low Risk,Maintain excellent academic discipline and aim for higher achievement.
+S024,98,75,5,92,1,4,1,1,1,Pass,Low Risk,Maintain excellent academic discipline and aim for higher achievement.
+S025,95,86,5,95,0,5,1,1,1,Pass,Low Risk,Maintain excellent academic discipline and aim for higher achievement.
+S026,95,74,5,95,1,4,1,1,1,Pass,Low Risk,Maintain excellent academic discipline and aim for higher achievement.
+S027,95,70,4,100,1,5,1,1,1,Pass,Low Risk,Maintain excellent academic discipline and aim for higher achievement.
+S028,93,88,5,85,1,4,1,1,1,Pass,Low Risk,Maintain excellent academic discipline and aim for higher achievement.
+S029,92,77,4,99,0,5,1,1,1,Pass,Low Risk,Maintain excellent academic discipline and aim for higher achievement.
+S030,87,96,5,89,0,4,1,1,1,Pass,Low Risk,Maintain excellent academic discipline and aim for higher achievement.
+S031,74,63,3,76,1,3,0,0,0.15,Fail,High Risk,Immediate counseling required. Increase attendance and structured study.
+S032,74,59,3,70,0,4,0,0,0.19,Fail,High Risk,Immediate counseling required. Increase attendance and structured study.
+S033,74,60,4,72,0,3,0,0,0.12,Fail,High Risk,Immediate counseling required. Increase attendance and structured study.
+S034,76,55,3,82,0,4,1,1,0.72,Pass,Medium Risk,"Improve consistency, complete assignments, and strengthen weak subjects."
+S035,85,57,3,76,0,4,1,1,1,Pass,Low Risk,Maintain excellent academic discipline and aim for higher achievement.
+S036,74,69,4,70,1,4,0,0,0.33,Fail,High Risk,Immediate counseling required. Increase attendance and structured study.
+S037,81,62,3,80,0,4,1,1,1,Pass,Low Risk,Maintain excellent academic discipline and aim for higher achievement.
+S038,70,63,3,85,0,3,0,0,0,Fail,High Risk,Immediate counseling required. Increase attendance and structured study.
+S039,71,56,3,83,1,3,0,0,0,Fail,High Risk,Immediate counseling required. Increase attendance and structured study.
+S040,75,56,4,73,0,4,1,0,0.44,Fail,High Risk,Immediate counseling required. Increase attendance and structured study.
+S041,73,70,4,75,0,3,0,0,0.05,Fail,High Risk,Immediate counseling required. Increase attendance and structured study.
+S042,81,69,4,65,1,3,1,1,1,Pass,Low Risk,Maintain excellent academic discipline and aim for higher achievement.
+S043,72,64,4,71,1,3,0,0,0.01,Fail,High Risk,Immediate counseling required. Increase attendance and structured study.
+S044,78,66,4,70,0,3,1,1,0.99,Pass,Low Risk,Maintain excellent academic discipline and aim for higher achievement.
+S045,75,55,4,75,1,3,1,0,0.33,Fail,High Risk,Immediate counseling required. Increase attendance and structured study.
+S046,85,60,4,76,0,3,1,1,1,Pass,Low Risk,Maintain excellent academic discipline and aim for higher achievement.
+S047,76,67,4,78,0,4,1,1,0.86,Pass,Low Risk,Maintain excellent academic discipline and aim for higher achievement.
+S048,78,64,4,73,1,4,1,1,0.99,Pass,Low Risk,Maintain excellent academic discipline and aim for higher achievement.
+S049,78,69,4,73,1,4,1,1,1,Pass,Low Risk,Maintain excellent academic discipline and aim for higher achievement.
+S050,85,65,4,78,0,4,1,1,1,Pass,Low Risk,Maintain excellent academic discipline and aim for higher achievement.
+S051,85,63,4,82,0,3,1,1,1,Pass,Low Risk,Maintain excellent academic discipline and aim for higher achievement.
+S052,78,66,4,81,0,4,1,1,0.99,Pass,Low Risk,Maintain excellent academic discipline and aim for higher achievement.
+S053,78,61,4,73,0,4,1,1,0.99,Pass,Low Risk,Maintain excellent academic discipline and aim for higher achievement.
+S054,72,58,3,65,1,3,0,0,0.01,Fail,High Risk,Immediate counseling required. Increase attendance and structured study.
+S055,80,55,4,71,1,3,1,1,1,Pass,Low Risk,Maintain excellent academic discipline and aim for higher achievement.
+S056,84,68,3,85,1,3,1,1,1,Pass,Low Risk,Maintain excellent academic discipline and aim for higher achievement.
+S057,74,55,4,70,0,4,0,0,0.15,Fail,High Risk,Immediate counseling required. Increase attendance and structured study.
+S058,85,65,4,65,1,4,1,1,1,Pass,Low Risk,Maintain excellent academic discipline and aim for higher achievement.
+S059,75,64,4,72,1,4,1,1,0.61,Pass,Medium Risk,"Improve consistency, complete assignments, and strengthen weak subjects."
+S060,72,60,3,84,1,3,0,0,0.01,Fail,High Risk,Immediate counseling required. Increase attendance and structured study.
+S061,84,57,4,82,0,4,1,1,1,Pass,Low Risk,Maintain excellent academic discipline and aim for higher achievement.
+S062,77,70,3,76,1,4,1,1,0.98,Pass,Low Risk,Maintain excellent academic discipline and aim for higher achievement.
+S063,74,69,3,73,1,3,0,0,0.22,Fail,High Risk,Immediate counseling required. Increase attendance and structured study.
+S064,77,63,4,73,1,3,1,1,0.95,Pass,Low Risk,Maintain excellent academic discipline and aim for higher achievement.
+S065,85,61,4,75,0,4,1,1,1,Pass,Low Risk,Maintain excellent academic discipline and aim for higher achievement.
+S066,84,68,4,76,0,3,1,1,1,Pass,Low Risk,Maintain excellent academic discipline and aim for higher achievement.
+S067,84,69,3,70,1,4,1,1,1,Pass,Low Risk,Maintain excellent academic discipline and aim for higher achievement.
+S068,74,58,3,76,1,3,0,0,0.11,Fail,High Risk,Immediate counseling required. Increase attendance and structured study.
+S069,79,62,4,74,1,3,1,1,1,Pass,Low Risk,Maintain excellent academic discipline and aim for higher achievement.
+S070,75,63,3,68,1,4,1,1,0.64,Pass,Medium Risk,"Improve consistency, complete assignments, and strengthen weak subjects."
+S071,70,43,3,46,0,1,0,0,0,Fail,High Risk,Immediate counseling required. Increase attendance and structured study.
+S072,65,36,1,63,1,3,0,0,0,Fail,High Risk,Immediate counseling required. Increase attendance and structured study.
+S073,72,32,3,69,1,3,0,0,0,Fail,High Risk,Immediate counseling required. Increase attendance and structured study.
+S074,65,50,1,44,0,2,0,0,0,Fail,High Risk,Immediate counseling required. Increase attendance and structured study.
+S075,43,49,1,48,1,3,0,0,0,Fail,High Risk,Immediate counseling required. Increase attendance and structured study.
+S076,42,33,2,50,1,3,0,0,0,Fail,High Risk,Immediate counseling required. Increase attendance and structured study.
+S077,59,42,2,49,1,1,0,0,0,Fail,High Risk,Immediate counseling required. Increase attendance and structured study.
+S078,42,44,2,65,1,3,0,0,0,Fail,High Risk,Immediate counseling required. Increase attendance and structured study.
+S079,51,31,1,47,1,3,0,0,0,Fail,High Risk,Immediate counseling required. Increase attendance and structured study.
+S080,69,35,1,64,1,1,0,0,0,Fail,High Risk,Immediate counseling required. Increase attendance and structured study.
+S081,75,53,1,55,0,1,1,0,0.24,Fail,High Risk,Immediate counseling required. Increase attendance and structured study.
+S082,51,42,3,68,1,3,0,0,0,Fail,High Risk,Immediate counseling required. Increase attendance and structured study.
+S083,61,36,3,56,0,3,0,0,0,Fail,High Risk,Immediate counseling required. Increase attendance and structured study.
+S084,58,50,1,57,1,2,0,0,0,Fail,High Risk,Immediate counseling required. Increase attendance and structured study.
+S085,68,38,2,54,1,2,0,0,0,Fail,High Risk,Immediate counseling required. Increase attendance and structured study.
+S086,64,53,1,65,1,3,0,0,0,Fail,High Risk,Immediate counseling required. Increase attendance and structured study.
+S087,69,50,2,40,0,3,0,0,0,Fail,High Risk,Immediate counseling required. Increase attendance and structured study.
+S088,72,44,2,64,0,1,0,0,0,Fail,High Risk,Immediate counseling required. Increase attendance and structured study.
+S089,65,55,3,59,1,2,0,0,0,Fail,High Risk,Immediate counseling required. Increase attendance and structured study.
+S090,70,48,3,59,0,2,0,0,0,Fail,High Risk,Immediate counseling required. Increase attendance and structured study.
+S091,41,49,3,61,1,1,0,0,0,Fail,High Risk,Immediate counseling required. Increase attendance and structured study.
+S092,73,39,2,52,0,2,0,0,0.01,Fail,High Risk,Immediate counseling required. Increase attendance and structured study.
+S093,48,48,3,62,0,2,0,0,0,Fail,High Risk,Immediate counseling required. Increase attendance and structured study.
+S094,51,45,3,60,1,3,0,0,0,Fail,High Risk,Immediate counseling required. Increase attendance and structured study.
+S095,63,40,2,63,1,1,0,0,0,Fail,High Risk,Immediate counseling required. Increase attendance and structured study.
+S096,48,54,3,60,1,2,0,0,0,Fail,High Risk,Immediate counseling required. Increase attendance and structured study.
+S097,67,53,1,42,0,3,0,0,0,Fail,High Risk,Immediate counseling required. Increase attendance and structured study.
+S098,63,52,2,53,0,3,0,0,0,Fail,High Risk,Immediate counseling required. Increase attendance and structured study.
+S099,44,42,3,58,0,1,0,0,0,Fail,High Risk,Immediate counseling required. Increase attendance and structured study.
+S100,57,41,2,63,0,2,0,0,0,Fail,High Risk,Immediate counseling required. Increase attendance and structured study.
