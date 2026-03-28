@@ -76,6 +76,26 @@ Below is the Power BI dashboard used to visualize student performance insights.
 - `project_presentation.pptx` – Project presentation slides  
 
 ---
+Folder Structure
+- "student_prediction_model.py" → ML model code
+- "student_performance_dataset.xlsx" → input dataset
+- "final_student_prediction_output.csv" → predicted results
+- "dashboard.png" → Power BI dashboard
+- "project_presentation.pptx" → viva presentation
+- "student_performance_prediction_report.pdf" → final project report
 
+---
+- Business / Academic Impact
+
+This project helps educational institutions identify at-risk students early and take preventive actions to improve pass percentage and academic outcomes.
+
+---
+Future Enhancements
+- Deploy as web application
+- Add real-time student input form
+- Improve model using Random Forest / XGBoost
+- Add subject-wise prediction insights
+
+---
 ## Conclusion
 This project demonstrates how machine learning can assist educational institutions in identifying at-risk students early and supporting teachers in making data-driven academic decisions. The integration of predictive analytics, risk classification, and dashboard visualization provides a comprehensive academic monitoring system.
